@@ -1,1 +1,3 @@
-# test-project
+<?
+  echo 'my first test project!';
+?>
